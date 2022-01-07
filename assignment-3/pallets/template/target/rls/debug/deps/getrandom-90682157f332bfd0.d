@@ -1,0 +1,11 @@
+/Users/healer/Documents/VIB/VBI-OCT-Couse/lesson-3/pallets/template/target/rls/debug/deps/getrandom-90682157f332bfd0.rmeta: /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/lib.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error_impls.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util_libc.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/use_file.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/macos.rs
+
+/Users/healer/Documents/VIB/VBI-OCT-Couse/lesson-3/pallets/template/target/rls/debug/deps/getrandom-90682157f332bfd0.d: /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/lib.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error_impls.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util_libc.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/use_file.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/macos.rs
+
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/lib.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error_impls.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util_libc.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/use_file.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/macos.rs:

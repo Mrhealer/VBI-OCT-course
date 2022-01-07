@@ -1,0 +1,14 @@
+/Users/healer/Documents/VIB/VBI-OCT-Couse/lesson-3/pallets/template/target/rls/debug/deps/anyhow-9e7235a268dbb24c.rmeta: /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/lib.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/backtrace.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/chain.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/context.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/error.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/fmt.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/kind.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/macros.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/ptr.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/wrapper.rs
+
+/Users/healer/Documents/VIB/VBI-OCT-Couse/lesson-3/pallets/template/target/rls/debug/deps/anyhow-9e7235a268dbb24c.d: /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/lib.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/backtrace.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/chain.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/context.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/error.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/fmt.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/kind.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/macros.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/ptr.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/wrapper.rs
+
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/lib.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/backtrace.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/chain.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/context.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/error.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/fmt.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/kind.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/macros.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/ptr.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.43/src/wrapper.rs:

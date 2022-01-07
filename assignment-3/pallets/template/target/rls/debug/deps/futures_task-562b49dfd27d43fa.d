@@ -1,0 +1,11 @@
+/Users/healer/Documents/VIB/VBI-OCT-Couse/lesson-3/pallets/template/target/rls/debug/deps/futures_task-562b49dfd27d43fa.rmeta: /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/lib.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/spawn.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/arc_wake.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/waker.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/waker_ref.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/future_obj.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/noop_waker.rs
+
+/Users/healer/Documents/VIB/VBI-OCT-Couse/lesson-3/pallets/template/target/rls/debug/deps/futures_task-562b49dfd27d43fa.d: /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/lib.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/spawn.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/arc_wake.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/waker.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/waker_ref.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/future_obj.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/noop_waker.rs
+
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/lib.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/spawn.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/arc_wake.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/waker.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/waker_ref.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/future_obj.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.17/src/noop_waker.rs:
